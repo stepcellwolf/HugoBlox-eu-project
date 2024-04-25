@@ -48,6 +48,7 @@ header:
 
 # Site footer
 footer:
+  block: eu-full
   copyright:
     notice: '© {year} Me. eee work is licensed under {license}'
     license:
