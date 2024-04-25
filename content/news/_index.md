@@ -1,5 +1,5 @@
 ---
-title: Showcase
+title: News
 description: "Docs websites powered by Hugo Blox."
 type: landing
 
@@ -26,7 +26,7 @@ sections:
     content:
       filters:
         folders:
-          - showcase
+          - news
     design:
       view: card
       spacing:

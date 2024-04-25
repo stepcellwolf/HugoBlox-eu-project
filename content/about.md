@@ -1,12 +1,17 @@
 ---
-menus: main
 title: About
-type: landing
-
-sections:
-  - block: markdown
-    content:
-      title: About us
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+toc: true
+reading_time: false
+pager: false
 ---
+
+## About the project
+
+Some text
+
+## Timeline
+
+{{% callout note %}}
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+

@@ -538,10 +538,12 @@
       "z-30"
     ],
     "ids": [
+      "about-the-project",
       "add-your-content",
       "bug-fixes",
       "chat",
       "configure-your-new-site",
+      "contact-us",
       "docs",
       "docs-navigation",
       "example",
@@ -551,6 +553,7 @@
       "folder-structure",
       "full-documentation",
       "further-resources",
+      "heading",
       "hide-button",
       "how-to-upgrade",
       "hugo-file-naming-convention",
@@ -591,6 +594,7 @@
       "step-3",
       "sun",
       "support",
+      "timeline",
       "top",
       "usage",
       "warnings",

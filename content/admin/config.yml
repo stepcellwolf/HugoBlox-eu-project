@@ -1,8 +1,0 @@
-backend:
-  name: github
-  repo: stepcellwolf/HugoBlox-eu-project
-  branch: main
-  accept_roles:
-    - admin
-    - editor
-    - reporter
